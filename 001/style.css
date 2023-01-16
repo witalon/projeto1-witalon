@@ -7,3 +7,7 @@ align-items: center;
 button{
     width: 80px;
 }
+
+body {
+    background-color: azure;
+}
